@@ -29,7 +29,7 @@ thumbnailsQuality: 95
 #  Changing this only affects new thumbnails. To recreate the old ones, clear out your ST/thumbnails/ folder.
 avatarThumbnailsPng: false
 # Allow secret keys exposure via API
-allowKeysExposure: false
+allowKeysExposure: true
 # Skip new default content checks
 skipContentCheck: false
 # Disable automatic chats backup
